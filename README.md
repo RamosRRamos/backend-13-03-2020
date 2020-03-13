@@ -1,20 +1,20 @@
-# Django Project Boilerplate
+"Attention the visual part has not been properly worked out since the test is for the back end, so it does not reflect my front end ability"
 
-This repository is a boilerplate Django project for quickly getting started.
 
-[![alt text](https://github.com/justdjango/django_project_boilerplate/blob/master/thumbnail.png "Logo")](https://www.youtube.com/watch?v=GEogao-tUec)
+Project Plan D, uses the following technologies:
 
-## Getting started
+Django,
+Django Rest Framework,
+Django Project BoilerPlate,
+MDB Admin Dashboard,
 
-Steps:
+In the documentation found on this simple website we have all the links to access the contents listed above,
 
-1. Clone/pull/download this repository
-2. Create a virtualenv with `virtualenv env` and install dependencies with `pip install -r requirements.txt`
-3. Configure your .env variables
-4. Rename your project with `python manage.py rename <yourprojectname> <newprojectname>`
+To use the API, api does not have specific rules for use so it can be used using "PostMan" or the graphical interface provided by the Django Rest Framework itself, this is available at this link:
 
-This project includes:
+The basic use of the Django Admin Panel, for the CRUD provided by Django himself
 
-1. Settings modules for deploying with Azure
-2. Django commands for renaming your project and creating a superuser
-3. A cli tool for setting environment variables for deployment
+Login:
+Password:
+
+Also included CRUD using simple Based Views for inclusion of websites.
