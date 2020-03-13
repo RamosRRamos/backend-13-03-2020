@@ -21,3 +21,11 @@ Login: admin
 Password: 123456
 
 Also included CRUD using simple Based Views for inclusion of websites.
+
+
+(Update)
+
+
+It was also placed in the git of the challenge, the solution.
+If you want to run the solution, you need to install venv, as well as install the requirements that are in
+the requirements.txt file
