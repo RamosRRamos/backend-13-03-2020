@@ -7,7 +7,7 @@ ENVIRONMENT = os.getenv('ENVIRONMENT', 'development')
 DEBUG = config('DEBUG', default=False, cast=bool)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = config('SECRET_KEY')
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pland-end.herokuapp.com']
 
 INSTALLED_APPS = [
     'django.contrib.admin',

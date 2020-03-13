@@ -14,7 +14,7 @@ To use the API, api does not have specific rules for use so it can be used using
 
 The basic use of the Django Admin Panel, for the CRUD provided by Django himself
 
-Login:
-Password:
+Login: admin
+Password: 123456
 
 Also included CRUD using simple Based Views for inclusion of websites.
